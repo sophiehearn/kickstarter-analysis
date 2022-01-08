@@ -9,3 +9,5 @@ The analysis was performed using basic functions in Excel
 
 ## Results
 
+![graph](https://github.com/sophiehearn/kickstarter-analysis/blob/main/Images/Outcomes_vs_Goals.png?raw=true)
+
