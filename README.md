@@ -37,3 +37,10 @@ That being said, smaller goals than $10,000 are more likely to succeed, and beca
 
 ### Limitations of the Dataset
 
+Although this analysis may help Louise understand some of the fundamental decisions of when and at what goal to launch her Kickstarter campaign, it does have its limitations. The existing dataset contains blurbs about the plays, whether they were "spotlighted" or chosen as staff picks, and how long the campaigns lasted.
+A more sophisticated analysis of these data points might help Louise make additional decisions about how to prepare the campaign blurb and how long to run the campaign. It could also tell her whether there were any common characteristics of campaigns that were "spotlighted" or picked by staff, and whether either of these options helped garner more support.
+Louise might then be able to cater her campaign to be a more likely candidate for a staff pick or spotlight.
+The dataset itself does not provide information on how these campaigns were publicized beyond Kickstarter. Likely Louise will have to do some additional work outside of the platform to direct potential donors to the site - it could be useful to have information on whether donors were clicking through from emails, social media, QR codes, or finding it through the Kickstarter site itself.
+With the data provided, it looks like Louise has a reasonable chance at success with her campaign, but she will likely need to put in more effort elsewhere to get the results she's hoping for.
+
+
