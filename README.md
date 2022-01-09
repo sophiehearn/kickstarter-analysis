@@ -9,5 +9,5 @@ The analysis was performed using basic functions in Excel
 
 ## Results
 
-![graph](https://github.com/sophiehearn/kickstarter-analysis/blob/main/Images/Outcomes_vs_Goals.png?raw=true)
-
+![Outcomes Based on Goal](https://github.com/sophiehearn/kickstarter-analysis/blob/main/Images/Outcomes_vs_Goals.png?raw=true)
+![Theater Outcomes by Launch](https://github.com/sophiehearn/kickstarter-analysis/blob/main/Images/Theater_Outcomes_vs_Launch.png?raw=true)
